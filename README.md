@@ -62,9 +62,3 @@
 
 1. `preprocess.py`를 실행하여 원본 데이터를 통합하고 전처리된 데이터셋을 생성합니다.
 2. `main.py`를 실행하여 모델 학습 및 앙상블 분석을 수행하고 최종 결과를 확인합니다.
-
----
-
-## License
-
-This project is available for academic and research purposes.
